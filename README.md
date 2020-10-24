@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Mikey! 👋🏽
 
 <!--
 **isigebengu-mikey/isigebengu-mikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
