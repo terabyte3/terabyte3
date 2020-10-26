@@ -1,7 +1,7 @@
 # Hi there, I'm Mikey! 👋🏽
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)\
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)\
+[![Sentry](https://img.shields.io/badge/project%20Sentry-owner-blue?style=for-the-badge)](https://sentrydiscord.webflow.io)
 <!--
 **isigebengu-mikey/isigebengu-mikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ![Mikey's github stats](https://github-readme-stats.vercel.app/api?username=isigebengu-mikey&count_private=true&theme=dark)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=isigebengu-mikey&count_private=true&theme=dark)
 # Some of my projects: 🔨
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=Mercury-Modmail-Discord&theme=dark&)](https://github.com/isigebengu-mikey/Mercury-Modmail-Discord)
-[![Sentry](https://img.shields.io/badge/project-sentry-blue?style=for-the-badge)](https://sentrydiscord.webflow.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=Mercury-Modmail-Discord&theme=dark&)](https://github.com/isigebengu-mikey/Mercury-Modmail-Discord)\
+[![Sentry](https://img.shields.io/badge/project-Sentry-blue?style=for-the-badge)](https://sentrydiscord.webflow.io)
