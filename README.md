@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=isigebengu-mikey&count_private=true&theme=dark)
 # Some of my projects: 🔨
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=Mercury-Modmail-Discord&theme=dark&)](https://github.com/isigebengu-mikey/Mercury-Modmail-Discord)
+[![Sentry](https://img.shields.io/badge/project-sentry-blue?style=for-the-badge)](https://sentrydiscord.webflow.io)
