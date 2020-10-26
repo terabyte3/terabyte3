@@ -1,4 +1,8 @@
 # Hi there, I'm Mikey! 👋🏽
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/536644802595520534?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/536644802595520534)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/536644802595520534)
+![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/536644802595520534)
 
 <!--
 **isigebengu-mikey/isigebengu-mikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
