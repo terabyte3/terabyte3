@@ -1,7 +1,7 @@
 # Hi there, I'm Mikey! 👋🏽
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)\
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)\
-[![Sentry](https://img.shields.io/badge/project%20Sentry-owner-blue?style=for-the-badge)](https://sentrydiscord.webflow.io)
+[![Sentry](https://img.shields.io/badge/project%20Sentry-head%20dev-blue?style=for-the-badge)](https://sentrydiscord.webflow.io)
 <!--
 **isigebengu-mikey/isigebengu-mikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
