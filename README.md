@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 - 💬 Ask me about my bot!
-- 📫 How to reach me: DM me @ 𝘎𝘏𝘖𝘚𝘛👻#4258 on Discord
+- 📫 How to reach me: DM me @ [𝘎𝘏𝘖𝘚𝘛👻#4258](https://discord.com/users/536644802595520534)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm not even 14
 
