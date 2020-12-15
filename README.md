@@ -1,11 +1,15 @@
 # Hi there, I'm Mikey! 👋🏽
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)\
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)\
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 <!--
 **isigebengu-mikey/isigebengu-mikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-
+```py
+from mikey import MiddleSchooler
+from mikey import Developer
+from mikey import 13yo
+```
 - 🔭 I’m currently working on a Discord Moderation bot!
 - 🌱 I’m currently learning `discord.py` and `git`
 - 👯 I’m looking to collaborate for my moderation bot! DM me!
