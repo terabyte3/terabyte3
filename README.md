@@ -10,7 +10,7 @@ from mikey import MiddleSchooler
 from mikey import Developer
 from mikey import 13yo
 ```
-- 🔭 I’m currently working on a Discord Moderation bot!
+- 🔭 I’m currently working on a [discord.py extension!](https://github.com/isigebengu-mikey/discord-ext-forms)!
 - 🌱 I’m currently learning `discord.py` and `git`
 - 👯 I’m looking to collaborate for my moderation bot! DM me!
 <!--
@@ -26,3 +26,4 @@ from mikey import 13yo
 # Some of my projects: 🔨
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=Mercury-Modmail-Discord&theme=dark&)](https://github.com/isigebengu-mikey/Mercury-Modmail-Discord)\
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=bruhapy&theme=dark&)](https://github.com/isigebengu-mikey/bruhapy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=bruhapy&theme=dark&)](https://github.com/isigebengu-mikey/discord-ext-forms)
