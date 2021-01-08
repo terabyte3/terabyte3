@@ -5,11 +5,6 @@
 **isigebengu-mikey/isigebengu-mikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-```py
-from mikey import MiddleSchooler
-from mikey import Developer
-from mikey import 13yo
-```
 - 🔭 I’m currently working on a [discord.py extension!](https://github.com/isigebengu-mikey/discord-ext-forms)!
 - 🌱 I’m currently learning `discord.py` and `git`
 - 👯 I’m looking to collaborate for my moderation bot! DM me!
@@ -19,7 +14,6 @@ from mikey import 13yo
 - 💬 Ask me about my bot!
 - 📫 How to reach me: DM me @ [𝘎𝘏𝘖𝘚𝘛👻#4258](https://discord.com/users/536644802595520534)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm not even 14
 
 ![Mikey's github stats](https://github-readme-stats.vercel.app/api?username=isigebengu-mikey&count_private=true&theme=dark)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=isigebengu-mikey&count_private=true&theme=dark&exclude_repo=isigebengu-mikey.github.io)
