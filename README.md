@@ -11,9 +11,21 @@ Here are some ideas to get you started:
 <!--
 - 🤔 I’m looking for help with ...
 -->
-- 💬 Ask me about my bot!
-- 📫 How to reach me: DM me @ [𝘎𝘏𝘖𝘚𝘛👻#4258](https://discord.com/users/536644802595520534)
+- 📫 How to reach me: DM me @ [mikey 🌌#4258](https://discord.com/users/536644802595520534)
 - 😄 Pronouns: he/him
+
+# My Skills
+```py
+if mikey.can_speak(py):
+  print("🐍")
+ 
+>> 🐍
+```
+
+I program in Python! I make microservers and Discord bots! My favorite Python modules are:
+- Colorama
+- discord.py
+- Flask/Quart
 
 ![Mikey's github stats](https://github-readme-stats.vercel.app/api?username=isigebengu-mikey&count_private=true&theme=dark)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=isigebengu-mikey&count_private=true&theme=dark&exclude_repo=isigebengu-mikey.github.io)
@@ -21,3 +33,4 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=Mercury-Modmail-Discord&theme=dark&)](https://github.com/isigebengu-mikey/Mercury-Modmail-Discord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=bruhapy&theme=dark&)](https://github.com/isigebengu-mikey/bruhapy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=discord-ext-forms&theme=dark&)](https://github.com/isigebengu-mikey/discord-ext-forms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=aiobruhapy&theme=dark&)](https://github.com/isigebengu-mikey/aiobruhapy)
