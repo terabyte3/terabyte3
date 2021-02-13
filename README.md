@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a [discord.py extension!](https://github.com/isigebengu-mikey/discord-ext-forms)!
-- 🌱 I’m currently learning `discord.py` and `git`
+- 🌱 I’m currently learning `Java` and `C++`
 - 👯 I’m looking to collaborate for my moderation bot! DM me!
 <!--
 - 🤔 I’m looking for help with ...
