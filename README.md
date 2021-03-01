@@ -9,10 +9,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a [bot for a bot jam!](https://github.com/isigebengu-mikey/stegosaurus)!
 - 🌱 I’m currently learning `Java` and `C++`
 - 👯 I’m looking to collaborate for my moderation bot! DM me!
-<!--- 🤔 I’m looking for help with ...-->
 - 📫 How to reach me: DM me @ [mikey 🌌#4258](https://discord.com/users/536644802595520534)
 - 😄 Pronouns: he/him
-
+<!--- 🤔 I’m looking for help with ...-->
 # My Skills
 ```py
 if mikey.can_speak(py):
