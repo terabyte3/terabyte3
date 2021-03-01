@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 <!--- 🤔 I’m looking for help with ...-->
 # My Skills
 ```py
-if mikey.can_speak(py):
-  print("🐍")
+py in mikey.languages
  
->> 🐍
+>> True
 ```
 
 I program in Python! I make microservers and Discord bots! My favorite Python modules are:
