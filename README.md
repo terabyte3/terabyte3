@@ -24,7 +24,7 @@ I program in Python! I make microservers and Discord bots! My favorite Python mo
 - discord.py
 - Flask/Quart
 
-![Mikey's github stats](https://github-readme-stats.vercel.app/api?username=isigebengu-mikey&count_private=true&theme=dark)\
+![Mikey's github stats](https://github-readme-stats.vercel.app/api?username=isigebengu-mikey&count_private=true&theme=dark&show_icons=true)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=isigebengu-mikey&count_private=true&theme=dark)
 # Some of my projects: 🔨
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=Mercury-Modmail-Discord&theme=dark&)](https://github.com/isigebengu-mikey/Mercury-Modmail-Discord)
