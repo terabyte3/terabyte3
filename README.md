@@ -8,8 +8,10 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a [bot for a bot jam!](https://github.com/isigebengu-mikey/stegosaurus)!
-- 🌱 I’m currently learning `Java` and `C++`
+- 🌱 I’m currently learning PyQt
+<!--
 - 👯 I’m looking to collaborate for my moderation bot! DM me!
+- -->
 - 📫 How to reach me: DM me @ [mikey 🌌#4258](https://discord.com/users/536644802595520534)
 - 😄 Pronouns: he/him
 <!--- 🤔 I’m looking for help with ...-->
@@ -21,7 +23,7 @@ py in mikey.languages
 ```
 
 I program in Python! I make microservers and Discord bots! My favorite Python modules are:
-- Colorama
+- click
 - discord.py
 - Flask/Quart
 
