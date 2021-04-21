@@ -1,4 +1,4 @@
-![](https://mikey.has-no-bra.in/bYQBY8.png)
+![](https://i.imgur.com/EDvkZhP.gif)
 # Hi there, I'm Mikey! 👋🏽
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)\
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)\
