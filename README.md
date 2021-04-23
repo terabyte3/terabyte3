@@ -7,7 +7,7 @@
 **isigebengu-mikey/isigebengu-mikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a [bot for a bot jam!](https://github.com/isigebengu-mikey/stegosaurus)!
+- 🔭 I’m currently working on Jolt, a bump bot!
 - 🌱 I’m currently learning PyQt
 <!--
 - 👯 I’m looking to collaborate for my moderation bot! DM me!
