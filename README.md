@@ -31,7 +31,6 @@ i program in python! i make microservers and discord bots! my favorite python mo
 ![mikey's github stats](https://github-readme-stats.vercel.app/api?username=isigebengu-mikey&count_private=true&theme=dark&show_icons=true)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=isigebengu-mikey&count_private=true&theme=dark)
 # some of my projects: 🔨
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=Mercury-Modmail-Discord&theme=dark&)](https://github.com/isigebengu-mikey/Mercury-Modmail-Discord)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=bruhapy&theme=dark&)](https://github.com/isigebengu-mikey/bruhapy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=discord-ext-forms&theme=dark&)](https://github.com/isigebengu-mikey/discord-ext-forms)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isigebengu-mikey&repo=aiobruhapy&theme=dark&)](https://github.com/isigebengu-mikey/aiobruhapy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terabyte3&repo=repltable&theme=dark&)](https://github.com/terabyte3/repltable)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terabyte3&repo=obscord&theme=dark&)](https://github.com/terabyte3/obscord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terabyte3&repo=discord-ext-forms&theme=dark&)](https://github.com/terabyte3/discord-ext-forms)
