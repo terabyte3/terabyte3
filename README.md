@@ -1,11 +1,9 @@
 ![](https://mikey.has-no-bra.in/565OmB6of.png)
 # hi there, i'm mikey! 👋🏽
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)\
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)\
 ![](https://komarev.com/ghpvc/?username=isigebengu-mikey)
 - 🔭 i’m currently working on **[redacted]**
 - 🌱 i’m currently learning **bootstrap**
-- 📫 how to reach me: DM me @ [mikey 🌌#4258](https://discord.com/users/536644802595520534)
+- 📫 how to reach me: [emael](mailto:terabyte@terabyteis.me?subject=hi%20yes%20it%20me&body=ayo%20what's%20good%20boe)
 - 😄 pronouns: he/him
 # My Skills
 ```py
