@@ -5,12 +5,8 @@
 - 🌱 i’m currently learning **bootstrap**
 - 📫 how to reach me: [emael](mailto:terabyte@terabyteis.me?subject=hi%20yes%20it%20me&body=ayo%20what's%20good%20boe)
 - 😄 pronouns: he/him
-# My Skills
-```py
-py in mikey.languages
- 
->> True
-```
+
+<hr/>
 
 <p align = 'center'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'>
@@ -18,8 +14,9 @@ py in mikey.languages
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<br>
- 
+</p>
+
+<hr/>
 
 i program in python! i make microservers and discord bots! my favorite python modules are:
 - click
