@@ -1,7 +1,7 @@
 ![](https://mikey.has-no-bra.in/565OmB6of.png)
 # hi there, i'm mikey! 👋🏽
 ![](https://komarev.com/ghpvc/?username=isigebengu-mikey)
-- 🔭 i’m currently working on **[redacted]**
+- 🔭 i’m currently working on **[an ai-powered discord automoderation bot](https://wasabi.terabyteis.me)!**
 - 🌱 i’m currently learning **bootstrap**
 - 📫 how to reach me: [emael](mailto:terabyte@terabyteis.me?subject=hi%20yes%20it%20me&body=ayo%20what's%20good%20boe)
 - 😄 pronouns: he/him
