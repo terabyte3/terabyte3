@@ -2,9 +2,9 @@
 # hi there, i'm mikey! 👋🏽
 ![](https://komarev.com/ghpvc/?username=isigebengu-mikey)
 - 🔭 i’m currently working on **[an ai-powered discord automoderation bot](https://wasabi.terabyteis.me)!**
-- 🌱 i’m currently learning **bootstrap**
-- 📫 how to reach me: [emael](mailto:terabyte@terabyteis.me?subject=hi%20yes%20it%20me&body=ayo%20what's%20good%20boe)
-- 😄 pronouns: he/him
+- 🌱 i’m currently learning **bootstrap**.
+- 📫 how to reach me: [emael](mailto:terabyte@terabyteis.me?subject=hi%20yes%20it%20me&body=ayo%20what's%20good%20boe).
+- 😄 pronouns: he/him.
 
 <hr/>
 
@@ -19,9 +19,9 @@
 <hr/>
 
 i program in python! i make microservers and discord bots! my favorite python modules are:
-- click
-- discord.py
-- flask/quart
+- click.
+- discord.py.
+- flask/quart.
 
 ![mikey's github stats](https://github-readme-stats.vercel.app/api?username=terabyte3&count_private=false&theme=dark&show_icons=true)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=terabyte3&count_private=false&theme=dark)
