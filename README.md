@@ -1,7 +1,7 @@
 ![](https://mikey.has-no-bra.in/565OmB6of.png)
 # hi there, i'm terabyte! 👋🏽
 ![](https://komarev.com/ghpvc/?username=isigebengu-mikey)
-- 🔭 i’m currently working on **[an ai-powered discord automoderation bot](https://wasabi.terabyteis.me)!**
+- 🔭 i’m currently working on **[vertigo](https://github.com/ey3tech/vertigo)!**
 - 🌱 i’m currently learning **bootstrap**.
 - 📫 how to reach me: [emael](mailto:terabyte@terabyteis.me?subject=hi%20yes%20it%20me&body=ayo%20what's%20good%20boe).
 - 😄 pronouns: he/him.
@@ -30,3 +30,4 @@ i program in python! i make microservers and discord bots! my favorite python mo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terabyte3&repo=repltable&theme=dark&)](https://github.com/terabyte3/repltable)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terabyte3&repo=obscord&theme=dark&)](https://github.com/terabyte3/obscord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terabyte3&repo=discord-ext-forms&theme=dark&)](https://github.com/terabyte3/discord-ext-forms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ey3tech&repo=vertigo&theme=dark&)](https://github.com/ey3tech/vertigo)
