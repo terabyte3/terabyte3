@@ -19,7 +19,7 @@
 
 <hr/>
 
-i program in python! i make microservers and discord bots! my favorite python modules are:
+i program in python and go, and i love to make microservers and discord bots! my favorite python modules are:
 - click.
 - discord.py.
 - flask/quart.
