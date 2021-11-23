@@ -18,11 +18,6 @@
 
 <hr/>
 
-i program in python and go, and i love to make microservers and discord bots! my favorite python modules are:
-- click.
-- discord.py.
-- flask/quart.
-
 ![mikey's github stats](https://github-readme-stats.vercel.app/api?username=terabyte3&count_private=false&theme=dark&show_icons=true)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=terabyte3&count_private=false&theme=dark)
 # some of my projects: 🔨
