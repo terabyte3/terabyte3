@@ -1,4 +1,3 @@
-![](https://mikey.has-no-bra.in/565OmB6of.png)
 # hi there, i'm terabyte! 👋🏽
 ![](https://komarev.com/ghpvc/?username=isigebengu-mikey)
 - 🔭 i’m currently working on **[vertigo](https://github.com/ey3tech/vertigo)!**
