@@ -1,4 +1,4 @@
-<img src="https://github.com/terabyte3/terabyte3/blob/main/github-metrics.svg">
+<img src="https://github.com/terabyte3/terabyte3/raw/main/github-metrics.svg">
 
 # some of my projects: 🔨
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terabyte3&repo=repltable&theme=dark&)](https://github.com/terabyte3/repltable)
