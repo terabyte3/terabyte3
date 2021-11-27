@@ -27,6 +27,7 @@ jobs:
           plugin_achievements_display: detailed  # Use compact display
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
           plugin_introduction: yes
+          plugin_introduction_title: no
           plugin_topics: yes
           plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_mode: icons    # Display icons instead of labels
