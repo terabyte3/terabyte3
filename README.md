@@ -12,6 +12,7 @@
   - <b>i do codes</b><br/>
   - <b>i am cool</b><br/>
 </p>
+
 <h3 align="center">stuff about me</h3>
 <p align="center">
 - <b>short</b><br/>
@@ -21,4 +22,5 @@
 - 💀<br/><br/>
 </p>
 
-<img src="https://c.tenor.com/JYsfYL5Yuw8AAAAi/jesus-ballin.gif">
+<h3 align="center">random note</h3>
+<p align="center"><b>i keep getting edward mixed up with <a href="https://fermi.terabyteis.me">enrico</a></b></p>
