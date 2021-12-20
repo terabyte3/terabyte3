@@ -6,14 +6,19 @@
 
 <hr/>
 <h3 align="center">why am i cool?</h3>
-- **am baby**
-- **i'm black**
-- **i do codes**
-- **i am cool**
+<p align="center">
+  - <b>i'm baby</b><br/>
+  - <b>i'm black</b><br/>
+  - <b>i do codes</b><br/>
+  - <b>i am cool</b><br/>
+</p>
 <h3 align="center">stuff about me</h3>
-- **short**
-- **he/him**
-- **jesus boy**
-- **grilled cheese 🥪**
+<p align="center">
+- <b>short</b><br/>
+- <b>he/him</b><br/>
+- <b>jesus boy</b><br/>
+- <b>grilled cheese 🥪</b><br/>
+- 💀<br/><br/>
+</p>
 
 <img src="https://c.tenor.com/JYsfYL5Yuw8AAAAi/jesus-ballin.gif">
