@@ -7,7 +7,7 @@
 <hr/>
 <h3 align="center">why am i cool?</h3>
 <p align="center">
-  - <b>i'm baby</b><br/>
+  - <b>am child</b><br/>
   - <b>i'm black</b><br/>
   - <b>i do codes</b><br/>
   - <b>i am cool</b><br/>
