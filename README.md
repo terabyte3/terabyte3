@@ -5,21 +5,11 @@
 </p>
 
 <hr/>
-<h3 align="center">why am i cool?</h3>
-<p align="center">
-  - <b>am child</b><br/>
-  - <b>i'm black</b><br/>
-  - <b>i do codes</b><br/>
-  - <b>i am cool</b><br/>
-</p>
-
 <h3 align="center">stuff about me</h3>
 <p align="center">
 - <b>short</b><br/>
 - <b>he/him</b><br/>
-- <b>jesus boy</b><br/>
 - <b>grilled cheese 🥪</b><br/>
-- 💀<br/><br/>
 </p>
 
 <h3 align="center">random note</h3>
