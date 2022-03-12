@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>heyo, i'm thrizzle!</h2>
+  <h1>heyo, i'm thrizzle!</h1>
   <img src="https://skillicons.dev/icons?i=git,docker,html,css,tailwind,react,js,next,md,py,redis,rust,go" /><br/>
 </div>
 <hr/>
