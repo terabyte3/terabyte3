@@ -1,6 +1,6 @@
 <div align="center">
   <h1>heyo, i'm thrizzle!</h1>
-  <img src="https://skillicons.dev/icons?i=git,docker,html,css,tailwind,react,js,next,md,py,redis,rust,go" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,html,css,tailwind,react,js,next,md,py,redis,rust,go,svelte" /><br/>
 </div>
 <hr/>
 <a href="https://discord.com/users/536644802595520534">
